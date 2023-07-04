@@ -7,7 +7,7 @@ function App() {
     <Container>
     <Row className="mt-5">
       <Col md={6} className="text-center">
-        <h1>Bienvenido a nuestro taller automotriz</h1>
+        <h1>Bienvenido a Car Shop</h1>
         <p>
           Ofrecemos servicios de recepción de autos para diagnóstico,
           mantenimiento y reparación. Nuestro equipo de expertos se encargará
